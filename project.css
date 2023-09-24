@@ -1,0 +1,16 @@
+.btn-success {
+    background-color: rgb(171, 218, 70);
+}
+
+.carousel{
+    width: 80%;
+    height: 100%;
+}
+.Form {
+    margin: 80px;
+}
+
+p {
+    border: 5px solid aquamarine  ;
+    margin-top: 20px;
+}
